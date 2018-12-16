@@ -1,0 +1,21 @@
+.container{
+    background-color: #131a1bc9;
+}
+span{
+    font-weight: bold;
+}
+
+label{
+    background-color: rgb(70, 135, 221);
+    padding: 2px;
+    border-radius: 4px;
+}
+
+article{
+  
+   padding: 10px;
+}
+
+.price{
+    font-size: 20px;
+}
